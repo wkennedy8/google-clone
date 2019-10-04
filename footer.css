@@ -1,0 +1,36 @@
+footer {
+    list-style-type: none;
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 18%;
+    height: auto;
+    background-color: #f2f2f2;
+    margin-left: -100px;
+
+    
+}
+
+.footer, li {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}   
+.footer, a {
+    text-decoration: none;
+    color: gray;
+    color: inherit;
+    padding: 5px;
+}
+
+.footer > div > ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+  }
+

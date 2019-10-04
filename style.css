@@ -1,0 +1,56 @@
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+    main {
+        text-align: center;
+        font-size: 35px;
+    }
+
+textarea {
+    text-align: center
+}
+
+.buttons {
+    text-align: center;
+    float: center;
+    position: relative;
+    bottom: 10px;
+    
+}   
+
+.form-input {
+    margin: auto;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 35px;
+    border-radius: 100px;
+    position: relative;
+    bottom: 12px;
+}
+
+.google-pic {
+    margin-top: 100px;
+}
+
+#submit .buttons{   
+    border: 1px solid #f2f2f2;  
+    color: #5F6368;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    background-color: #f2f2f2,
+}
+
